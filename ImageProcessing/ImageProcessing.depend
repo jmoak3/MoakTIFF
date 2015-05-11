@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1431224977 source:/home/jmoak3/Documents/ImageProcessing/ImageProcessing/ImageProcessing.cpp
+	<stdio.h>
+	"include/MoakTIFF.h"
+	<assert.h>
+
+1431058793 /home/jmoak3/Documents/ImageProcessing/ImageProcessing/include/BMPManager.h
+	<fstream>
+
+1431207188 source:/home/jmoak3/Documents/ImageProcessing/ImageProcessing/src/BMPManager.cpp
+	"../include/BMPManager.h"
+	<malloc.h>
+	<iostream>
+
+1431217672 source:/home/jmoak3/Documents/ImageProcessing/ImageProcessing/src/MoakTIFF.cpp
+	"MoakTIFF.h"
+	<malloc.h>
+	<iostream>
+
+1431207587 /home/jmoak3/Documents/ImageProcessing/ImageProcessing/include/MoakTIFF.h
+	<fstream>
+
